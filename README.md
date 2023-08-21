@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Nour Rabee' 
-- 💻 A third-year Computer Engineering student at Birzeit University
+- 💻 A Computer Engineering student at Birzeit University
 
 
 <br />

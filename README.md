@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Nour Rabee' 
-- 💻 A Computer Engineer
+- 💻 Fresh Computer Engineering graduate.
 
 
 <br />

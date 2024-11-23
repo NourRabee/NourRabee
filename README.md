@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 -->
 <h1>About Me 📌</h1>
 
-- 👋 I am Nour Rabee' 
-- 💻 Fresh Computer Engineering graduate.
+
+- Fresh Computer Engineering graduate.
+- Former Back-End Development Intern @ Harri
+- Former Back-End Development Intern @ Exalt
 
 
 <br />

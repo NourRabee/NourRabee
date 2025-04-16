@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 
-- Fresh Computer Engineering graduate.
+- Computer Engineering graduate.
 - Former Back-End Development Intern @ Harri
 - Former Back-End Development Intern @ Exalt
+- Skilled in Python, Django, Java, Spring Boot, REST APIs, SQL, Git.
 
 
 <br />

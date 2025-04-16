@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 <!--
 **NourRabee/NourRabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +28,14 @@ Here are some ideas to get you started:
 <h2 align="center">Quick Overview 📈</h2>
   
   <p align = "center">
+
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nourrabee&count_private=true&theme=solarized-light&hide_border=true" alt = "nourrabee's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nourrabee&count_private=true&theme=solarized-light&hide_border=true" alt = "nourrabee's Rating" width = 400 >
+
+</p>
+
+
 
